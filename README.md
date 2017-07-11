@@ -1,3 +1,6 @@
 # Mortgage-Knowledge-Engineering
-this program is to interact with users by asking a branch of questions. 
-Then the system will analyze and calculate based on the rules, and then will suggest that if you are eligible for FHA/Conventional loan.   
+To run this program, first you need to open e2gRuleEngineer.jar. 
+Then it will need the location of the file you want to run, which is aiproject.kb file.
+The runApp file contains an example of the path of file
+if you intent to make changes, you could open e2gRuleWriter.jar which you can delete or add more rules. 
+Enjoy!
